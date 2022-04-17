@@ -1,5 +1,9 @@
 # vue3-docker
 
+```sh
+docker build . -t my-vue3-app
+```
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
