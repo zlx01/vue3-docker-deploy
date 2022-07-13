@@ -1,4 +1,6 @@
-# vue3-docker
+# vue3-docker-deploy
+
+Create the image, then start it in Docker Desktop(Windows)
 
 ```sh
 docker build . -t my-vue3-app
