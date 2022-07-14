@@ -1,4 +1,4 @@
-# vue3-docker-deploy
+# vue3-deploy-docker
 
 Create the image, then start it in Docker Desktop(Windows)
 
